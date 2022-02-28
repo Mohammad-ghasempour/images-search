@@ -1,3 +1,9 @@
+# About project
+This project is created by Mohammad Ghasempour.
+An image search engine have been developed.
+After search an image name, maximum 10 images will be shown in the below of search bar.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
